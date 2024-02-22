@@ -1,1 +1,1 @@
-# number-game
+# NumberGame_JS_Project
